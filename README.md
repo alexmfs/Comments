@@ -1,10 +1,4 @@
 Comments
 ========
 
-Comentários ilustrados
-
-
-### Foca no código
-
-
-### Cuidado
+Comentários ilustrados para uso em códigos.
